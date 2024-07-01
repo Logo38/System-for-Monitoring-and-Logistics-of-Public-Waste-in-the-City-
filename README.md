@@ -14,7 +14,7 @@ This repository contains a portfolio of simulated projects in the field of softw
 
 [View Project Details](https://github.com/your-username/portfolio/integration-management-waste-city)
 
-### 2. VeritasGuard
+### 2. VERITAS_GUARD
 **Description:** Simulated project focused on verifying the accuracy of information in articles by experts to combat misinformation.
 
 **Demonstrates:**
@@ -25,7 +25,7 @@ This repository contains a portfolio of simulated projects in the field of softw
 
 [View Project Details](https://github.com/your-username/portfolio/veritasguard)
 
-### 3. Cypress Automated Testing
+### 3.  CYPRESS AUTOMATED TESTING PRACTICE
 
 **Description:** Automated end-to-end testing on Wikipedia and a public form using Cypress.
 
@@ -39,7 +39,7 @@ This repository contains a portfolio of simulated projects in the field of softw
 
 [View Project Details](https://github.com/your-username/portfolio/cypress-automated-testing)
 
-### 4. HealthyApp
+### 4. HEALTHY APP IN JAVA
 **Description:** Simple Java application for planning meals and workouts, demonstrating basic Java programming skills.
 
 **Demonstrates:**
