@@ -10,7 +10,7 @@ I am currently exploring and practising API testing, the basics of Java, and var
 1. **Waste Management API Testing**:
    - **Description**: API testing for a city waste management system.
    - **Details**: Includes testing CRUD operations and validating API responses using Postman and Cypress.
-   - **Additional Information**: This project also covers creating and executing TEST CASES and BUG REPORTS. I have worked with user stories in ScrumDesk, showcasing my initial experience with agile tools such as ScrumDesk, Azure DevOps, and Jira.
+   - **Additional Information**: This project also covers creating and executing TEST CASES and BUG REPORTS. I have worked with USER STORIES in ScrumDesk, showcasing my initial experience with agile tools such as ScrumDesk, Azure DevOps, and Jira.
 
 2. **Orion**:
    - **Description**: [Brief description of the project, e.g., automation testing for a web application.]
