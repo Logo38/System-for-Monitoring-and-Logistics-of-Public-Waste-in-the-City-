@@ -1,4 +1,4 @@
-# Portfolio of Simulated Software Testing Projects
+# PORTFOLIO OF SIMULATED SOFTWARE TESTING PROJECTS
 
 This repository contains a portfolio of simulated projects in the field of software testing. These projects demonstrate my current skills and experiences gained during personal practice, a Software Tester course, and an internship. I am currently exploring and practising API testing, the basics of Java, and various testing tools and methodologies.
 
