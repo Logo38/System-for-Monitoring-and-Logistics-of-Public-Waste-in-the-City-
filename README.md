@@ -12,6 +12,8 @@ This repository contains a portfolio of simulated projects in the field of softw
 - Creating fictional TEST CASE and BUG REPORT for a chosen USER STORY.
 - Fictional testing of HTTP methods using Postman (through the mock server/JSON server) and validating API responses.
 
+[View Project Details](https://github.com/your-username/portfolio/integration-management-waste-city)
+
 ### 2. VeritasGuard
 **Description:** Simulated project focused on verifying the accuracy of information in articles by experts to combat misinformation.
 
@@ -21,7 +23,23 @@ This repository contains a portfolio of simulated projects in the field of softw
 - Testing HTTP methods (using mock server/JSON server) and validating API responses.
 - Using Postman for API testing.
 
-### 3. HealthyApp
+[View Project Details](https://github.com/your-username/portfolio/veritasguard)
+
+### 3. Cypress Automated Testing
+
+**Description:** Automated end-to-end testing on Wikipedia and a public form using Cypress.
+
+**Demonstrates:**
+- Setting up Cypress for automated testing.
+- Writing and executing tests for loading pages, searching for elements, interacting with page components, and filling out forms.
+
+**Scenarios:**
+- Wikipedia Page Interaction
+- Form Filling on a Public Test Site
+
+[View Project Details](https://github.com/your-username/portfolio/cypress-automated-testing)
+
+### 4. HealthyApp
 **Description:** Simple Java application for planning meals and workouts, demonstrating basic Java programming skills.
 
 **Demonstrates:**
@@ -29,12 +47,7 @@ This repository contains a portfolio of simulated projects in the field of softw
 - Generating a daily workout plan with exercises for different parts of the body.
 - Utilizing basic Java concepts such as arrays, loops, and conditional statements.
 
-### 4. Cypress Wikipedia Testing
-**Description:** Automated end-to-end testing on Wikipedia using Cypress.
-
-**Demonstrates:**
-- Setting up Cypress for automated testing.
-- Writing and executing tests for loading pages, searching for elements, and interacting with page components.
+[View Project Details](https://github.com/your-username/portfolio/healthyapp)
 
 ## Contact
 - [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
