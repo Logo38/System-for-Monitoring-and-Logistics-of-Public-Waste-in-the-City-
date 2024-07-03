@@ -12,7 +12,7 @@ This repository contains a portfolio of simulated projects in the field of softw
 - Creating fictional TEST CASE and BUG REPORT for a chosen USER STORY.
 - Fictional testing of HTTP methods using Postman (through the mock server/JSON server) and validating API responses.
 
-[View Project Details](https://github.com/your-username/portfolio/integration-management-waste-city)
+[View Project Details](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/388d1c1d700ac3bffd24af083f901dbe02dd9c88/README.md)
 
 ### 2. VERITAS_GUARD
 **Description:** Simulated project focused on verifying the accuracy of information in articles by experts to combat misinformation.
